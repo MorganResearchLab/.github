@@ -1,7 +1,7 @@
 # Morgan Lab @ Institute of Medical Sciences, University of Aberdeen 👋
 
 This is the home of the Morgan Lab. Here you can find our code repositories for various ongoing projects. These are organised into individual repositories, each of 
-which is the responsibility of the creater and principle contributors.
+which is the responsibility of the creators and principle contributors.
 
 The Morgan lab studies the ageing immune system using a combination of statstical genetics, computational biology and high-throughput single cell measurements. Below 
 is a short bio of each lab member.
