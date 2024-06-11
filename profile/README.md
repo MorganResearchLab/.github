@@ -20,6 +20,7 @@ Haries recently joined Morgan Lab for his PhD. Haries is originally from Jakarta
 Haries loves watching nature documentaries, quiz shows and animated series. Haries also likes learning new languages (He still keeps his years of Duolingo streaks alive) and hacking random stuff.
 
 The Morgan Lab hosts undergraduate and Master's students, detailed below:
+
 Kerry Woodward (2023) - Master's student, _Investigating the impact of tumorigenic mutations on immune gene expression programs in small bowel adenocarcinoma_
 Sristi Bhattacharjee (2024) - Master's student, _Do old T cells accumulate somatic mutations?_
 Changel K. Jolly (2024) - Master's student, _Which immune cells accumulate the most somatic mutations?_
