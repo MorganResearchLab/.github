@@ -22,6 +22,7 @@ Haries loves watching nature documentaries, quiz shows and animated series. Hari
 
 ## David Wragg - computational postdoc
 
+## Calum Bane - PhD student (shared with Quin lab).
 
 ## Project students
 The Morgan Lab hosts undergraduate and Master's students, detailed below:
